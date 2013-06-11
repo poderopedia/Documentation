@@ -3,25 +3,32 @@ Documentation
 
 Subir la documentación definitiva
 
+1.- About
 
-1.- What is Poderopedia Plug & Play Platform? (ESTÁ OK)
+2.- WWhat is Plug & Play? (ESTÁ OK)
 
-2.- Features
-
-3.- Public website and Plug & Play Look and Feel (Customizing your poderopedia appearance)
+3.- Features (JE LO ESTÁ REVISANDO)
 
 4.- Technology
 
-5.- Installing 
+5.- Installing
 
-6.- Web server configuration (Servers and third party services) (FALTA)
+6.- Web server configuration (FALTA)
 
-7.- Settings (PODER VOCABULARY, POWERMAPA Y PLUG & PLAY)
+7.- Settings
+
+* Setting up PowerMapa
+* Setting up Solr
+* Setting up Documentcloud 
+* Setting up PoderVocabulary
+* Setting up Plug & Play
 
 8.- Permissions (FALTA)
 
-9.- API Documentation (TRADUCIRLA)
+9.- Customizing your Plug&Play appearance
 
-10.- Supporters and License (ESTÁ OK)
+10.- API Documentation (TRADUCIRLA)
 
-11.-Changelog (Se crean automáticamente)
+11.- Supporters and License (ESTÁ OK)
+
+12.- Changelog (Se crean automáticamente)
