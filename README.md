@@ -5,15 +5,15 @@ INDEX
 
 1.- About
 
-2.- What is Plug & Play? (ESTÁ OK)
+2.- What is Plug & Play? **(ESTÁ OK)**
 
-3.- Features (JE LO ESTÁ REVISANDO)
+3.- Features **(JE LO ESTÁ REVISANDO)**
 
 4.- Technology
 
 5.- Installing
 
-6.- Web server configuration (FALTA)
+6.- Web server configuration **(FALTA)**
 
 7.- Settings
 
@@ -23,12 +23,12 @@ INDEX
 * Setting up Solr
 * Setting up Documentcloud 
 
-8.- Permissions (FALTA)
+8.- Permissions **(FALTA)**
 
 9.- Customizing your Plug&Play appearance
 
-10.- API Documentation (TRADUCIRLA)
+10.- API Documentation **(TRADUCIRLA)**
 
-11.- Supporters and License (ESTÁ OK)
+11.- Supporters and License **(ESTÁ OK)**
 
-12.- Changelog (Se crean automáticamente)
+12.- Changelog **(Se crean automáticamente)**
