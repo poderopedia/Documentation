@@ -17,3 +17,37 @@ information in a public or private website, that can work as standalone product
 or as a public searchable database that can interoperate with a Newsroom`s
 website providing rich contextual information for news content using it's
 archive.
+
+**Problems Poderopedia Plug & Play Platform helps to solve**
+
+In most countries in the world, but specially in under developed and third world,
+the elites, companies, businessmen and politicians are very much inter connected.
+Their members have the same last names, they marry each other, they go to the
+same schools and universities, are members of the same private clubs, secular and
+non secular groups and have strong political and business ties.
+
+Decisions that become news and affect people`s every day life for good or bad are
+made by this influential people, companies and institutions. Having the big
+picture of who is who in business and politics and their networks helps you
+understand why things happen in one way or another, cuts information asymmetry,
+helps everyone to make more informed decisions, makes powerful people more
+accountable of their acts and promotes better democracy and a healthier society.
+
+**What's included in this Documentation**
+
+This Documentation includes all the necessary elements and information for
+installing, setting up and customizing the Poderopedia Plug & Play Platform for
+your project, including the technical documentation and open source technology
+used in the platform (see Technology) so you can run the Platform and Website/s
+as you see fit.
+
+The goal of this Documentation is to explain step by step what you need and have
+to do to setup a standalone instance of Poderopedia Plug & Play Platform, to be
+used in your project with multiuser self administration system that will allow
+you to run and mantain a public website and semantic searchable database of
+entities, connections between entities, profiles of entities, maps of connections
+of entities, documents, sources and news related to entities.
+
+The Poderopedia Plug & Play Platform will also allow you to receive, vet and
+manage collaborations from registered users and be approved or rejected by your
+project editors in the Plug & Play Management system. 
