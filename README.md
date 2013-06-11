@@ -17,11 +17,11 @@ Subir la documentación definitiva
 
 7.- Settings
 
+* Setting up Plug & Play
 * Setting up PowerMapa
+* Setting up PoderVocabulary
 * Setting up Solr
 * Setting up Documentcloud 
-* Setting up PoderVocabulary
-* Setting up Plug & Play
 
 8.- Permissions (FALTA)
 
