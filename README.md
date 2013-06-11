@@ -4,24 +4,24 @@ Documentation
 Subir la documentación definitiva
 
 
-* What is Poderopedia Plug & Play Platform? (Está ok)
+1.- What is Poderopedia Plug & Play Platform? (Está ok)
 
-* Features
+2.- Features
 
-* Public website and Plug & Play Look and Feel (Customizing your poderopedia appearance)
+3.- Public website and Plug & Play Look and Feel (Customizing your poderopedia appearance)
 
-* Technology
+4.- Technology
 
-* Installing
+5.- Installing
 
-* Web server configuration (Servers and third party services)
+6.- Web server configuration (Servers and third party services)
 
-* Settings 
+7.- Settings 
 
-* Permissions
+8.- Permissions
 
-* API Documentation
+9.- API Documentation
 
-* Supporters and License (Está ok)
+10.- Supporters and License (Está ok)
 
-* Changelog (Se crean automáticamente)
+11.-Changelog (Se crean automáticamente)
