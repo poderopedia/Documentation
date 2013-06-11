@@ -4,7 +4,7 @@ Documentation
 Subir la documentación definitiva
 
 
-* What is Poderopedia Plug & Play Platform?
+* What is Poderopedia Plug & Play Platform? (Está ok)
 
 * Features
 
@@ -22,8 +22,6 @@ Subir la documentación definitiva
 
 * API Documentation
 
-* Authors
-
-* License
+* Supporters and License (Está ok)
 
 * Changelog (Se crean automáticamente)
