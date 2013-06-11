@@ -1,7 +1,7 @@
 Documentation
 =============
 
-INDEX
+**INDEX**
 
 1.- About
 
