@@ -5,7 +5,7 @@ Subir la documentación definitiva
 
 1.- About
 
-2.- WWhat is Plug & Play? (ESTÁ OK)
+2.- What is Plug & Play? (ESTÁ OK)
 
 3.- Features (JE LO ESTÁ REVISANDO)
 
