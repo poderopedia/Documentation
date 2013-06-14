@@ -24,7 +24,7 @@ Documentation
 
 8.- Permissions **(FALTA)**
 
-9.- Customizing your Plug&Play appearance
+9.- Customizing your Plug&Play appearance (REVISAR ME PARECE QUE LA INFO ESTA INCOMPLETA)
 
 10.- API Documentation **(TRADUCIRLA)**
 
