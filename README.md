@@ -24,7 +24,7 @@ Documentation
 
 8.- Permissions **(FALTA)**
 
-9.- Customizing your Plug&Play appearance **(REVISAR ME PARECE QUE LA INFO ESTA INCOMPLETA)**
+9.- [Customizing your Plug&Play appearance](https://github.com/poderopedia/Documentation/blob/master/9.-%20Customizing%20your%20Plug%26Play%20appearance.md "Customizing")
 
 10.- API Documentation **(TRADUCIRLA)**
 
