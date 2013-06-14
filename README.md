@@ -3,7 +3,7 @@ Documentation
 
 **INDEX**
 
-1.- About
+1.- [About](https://github.com/poderopedia/Documentation/blob/master/1.-About.md "About")
 
 2.- [What is Plug & Play?](https://github.com/poderopedia/Documentation/blob/master/2.-What%20is%20Plug%20%26%20Play.md)
 
