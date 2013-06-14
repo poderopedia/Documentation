@@ -16,7 +16,7 @@ Documentation
 
 6.- Web server configuration **(FALTA)**
 
-7.- Settings
+7.- S[Settings](https://github.com/poderopedia/Documentation/blob/master/7.-%20Settings.md "Settings")
 
 * Setting up Plug & Play
 * Setting up PoderVocabulary
