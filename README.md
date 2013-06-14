@@ -30,6 +30,6 @@ Documentation
 
 10.- API Documentation **(TRADUCIRLA)**
 
-11.- Supporters and License **(OK)**
+11.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/11.-%20Supporters%20and%20License.md "License")
 
 12.- Changelog **(Se crean automáticamente)**
