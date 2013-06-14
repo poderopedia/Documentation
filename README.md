@@ -28,7 +28,7 @@ Documentation
 
 9.- [Customizing your Plug&Play appearance](https://github.com/poderopedia/Documentation/blob/master/9.-%20Customizing%20your%20Plug%26Play%20appearance.md "Customizing")
 
-10.- API Documentation **(TRADUCIRLA)**
+10.- [API Documentation](https://github.com/poderopedia/Documentation/blob/master/10.-%20Api%20Documentation.md "Api Documentation")
 
 11.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/11.-%20Supporters%20and%20License.md "License")
 
