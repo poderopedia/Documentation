@@ -9,7 +9,7 @@ Documentation
 
 3.- [Features](https://github.com/poderopedia/Documentation/blob/master/3.-Features.md "Features")
 
-4.- Technology
+4.- [Technology](https://github.com/poderopedia/Documentation/blob/master/4.-Technology.md "Technology")
 
 5.- [Installing
 ](https://github.com/poderopedia/Documentation/blob/master/5.-Installing.md "Installing")
