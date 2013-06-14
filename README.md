@@ -14,7 +14,8 @@ Documentation
 5.- [Installing
 ](https://github.com/poderopedia/Documentation/blob/master/5.-Installing.md "Installing")
 
-6.- Web server configuration **(FALTA)**
+
+6.-[ Web server configuration](https://github.com/poderopedia/Documentation/blob/master/6.-%20Web%20Server%20Configuration.md "Web Server")
 
 7.- [Settings](https://github.com/poderopedia/Documentation/blob/master/7.-%20Settings.md "Settings")
 
