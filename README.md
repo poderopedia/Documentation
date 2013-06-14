@@ -11,7 +11,8 @@ Documentation
 
 4.- Technology
 
-5.- Installing
+5.- [Installing
+](https://github.com/poderopedia/Documentation/blob/master/5.-Installing.md "Installing")
 
 6.- Web server configuration **(FALTA)**
 
