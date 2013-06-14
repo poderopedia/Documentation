@@ -1,0 +1,1 @@
+Plug & Play Platform is provided with a basic website Theme and Templates. You can customized and modified the look and feel and make all the changes you may want to the Theme and Templates. Please acknowledge and credit the use of Theme and Templates as Theme by Poderopedia Plug & Play.
