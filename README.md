@@ -5,9 +5,9 @@ Documentation
 
 1.- About
 
-2.- What is Plug & Play? **(ESTÁ OK)**
+2.- What is Plug & Play? **(OK)**
 
-3.- Features **(JE LO ESTÁ REVISANDO)**
+3.- Features **(OK)**
 
 4.- Technology
 
@@ -28,6 +28,6 @@ Documentation
 
 10.- API Documentation **(TRADUCIRLA)**
 
-11.- Supporters and License **(ESTÁ OK)**
+11.- Supporters and License **(OK)**
 
 12.- Changelog **(Se crean automáticamente)**
