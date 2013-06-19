@@ -24,7 +24,7 @@ Documentation
 * Setting up Solr
 * Setting up Documentcloud 
 
-8.- Permissions **(FALTA)**
+
 
 9.- [Customizing your Plug&Play appearance](https://github.com/poderopedia/Documentation/blob/master/9.-%20Customizing%20your%20Plug%26Play%20appearance.md "Customizing")
 
@@ -32,4 +32,3 @@ Documentation
 
 11.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/11.-%20Supporters%20and%20License.md "License")
 
-12.- Changelog **(Se crean automáticamente)**
