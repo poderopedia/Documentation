@@ -39,34 +39,29 @@ project editors in the Plug & Play Management system.
 
 **INDEX**
 
-1.- [About](https://github.com/poderopedia/Documentation/blob/master/1.-About.md "About")
+1.- [What is Plug & Play?](https://github.com/poderopedia/Documentation/blob/master/2.-What%20is%20Plug%20%26%20Play.md)
 
-2.- [What is Plug & Play?](https://github.com/poderopedia/Documentation/blob/master/2.-What%20is%20Plug%20%26%20Play.md)
+2.- [Features](https://github.com/poderopedia/Documentation/blob/master/3.-Features.md "Features")
 
-3.- [Features](https://github.com/poderopedia/Documentation/blob/master/3.-Features.md "Features")
+3.- [Technology](https://github.com/poderopedia/Documentation/blob/master/4.-Technology.md "Technology")
 
-4.- [Technology](https://github.com/poderopedia/Documentation/blob/master/4.-Technology.md "Technology")
-
-5.- [Installing
+4.- [Installing
 ](https://github.com/poderopedia/Documentation/blob/master/5.-Installing.md "Installing")
 
+5.-[ Web server configuration](https://github.com/poderopedia/Documentation/blob/master/6.-%20Web%20Server%20Configuration.md "Web Server")
 
-6.-[ Web server configuration](https://github.com/poderopedia/Documentation/blob/master/6.-%20Web%20Server%20Configuration.md "Web Server")
-
-7.- [Settings](https://github.com/poderopedia/Documentation/blob/master/7.-%20Settings.md "Settings")
+6.- [Settings](https://github.com/poderopedia/Documentation/blob/master/7.-%20Settings.md "Settings")
 
 * Setting up Plug & Play
 * Setting up PoderVocabulary
 * Setting up Solr
 * Setting up Documentcloud 
 
+7.- [Customizing your Plug&Play appearance](https://github.com/poderopedia/Documentation/blob/master/8.-%20Customizing%20your%20Plug%26Play%20appearance.md "Customizing")
 
+8.- [API Documentation](https://github.com/poderopedia/Documentation/blob/master/9.-%20Api%20Documentation.md "Api Documentation")
 
-8.- [Customizing your Plug&Play appearance](https://github.com/poderopedia/Documentation/blob/master/8.-%20Customizing%20your%20Plug%26Play%20appearance.md "Customizing")
+9.- [User Manual Plug & Play](https://github.com/poderopedia/Documentation/blob/master/USER%20MANUAL.%20tools%20v.0.1.pdf)
 
-9.- [API Documentation](https://github.com/poderopedia/Documentation/blob/master/9.-%20Api%20Documentation.md "Api Documentation")
-
-10.- [User Manual Plug & Play](https://github.com/poderopedia/Documentation/blob/master/USER%20MANUAL.%20tools%20v.0.1.pdf)
-
-11.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/11.-%20Supporters%20and%20License.md "License")
+10.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/11.-%20Supporters%20and%20License.md "License")
 
