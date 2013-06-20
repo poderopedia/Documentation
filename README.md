@@ -30,5 +30,7 @@ Documentation
 
 9.- [API Documentation](https://github.com/poderopedia/Documentation/blob/master/9.-%20Api%20Documentation.md "Api Documentation")
 
-10.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/10.-%20Supporters%20and%20License.md "License")
+10.- [User Manual Plug & Play](https://github.com/poderopedia/Documentation/blob/master/USER%20MANUAL.%20tools%20v.0.1.pdf)
+
+11.- [Supporters and License](https://github.com/poderopedia/Documentation/blob/master/11.-%20Supporters%20and%20License.md "License")
 
